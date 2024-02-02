@@ -1,0 +1,10 @@
+export const AD_TO_BASKET = "ADD TO BASKET"
+
+export const  GET_PRODUCT = "GET PRODUCT"
+
+export const DECREASE_QUANTITY = " DECREASE_QUANTITY"
+
+export const DELETE_FROM_BASKET = "DELETE_FROM_BASKET"
+
+export const ADD_TO_FAVORITE = "ADD_TO_FAVORITE"
+export const DEL_BASKET = "DEL_BASKET"
